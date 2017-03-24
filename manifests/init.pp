@@ -12,5 +12,6 @@
 #
 class tshark {
 
+  include tshark::install
 
 }
