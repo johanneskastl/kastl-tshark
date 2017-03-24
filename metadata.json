@@ -1,0 +1,14 @@
+{
+  "name": "kastl-tshark",
+  "version": "0.1.0",
+  "author": "Johannes Kastl kastl@b1-systems.de",
+  "summary": "Install the tshark package",
+  "license": "Apache 2.0",
+  "source": "https://github.com/johanneskastl/kastl-tshark",
+  "project_page": "https://github.com/johanneskastl/kastl-tshark",
+  "issues_url": "https://github.com/johanneskastl/kastl-tshark/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
